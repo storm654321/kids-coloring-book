@@ -11,8 +11,8 @@ This skill enables the AI assistant to act as a professional coloring-book illus
 Activate this skill whenever the user says:
 - "Make a coloring page from this image"
 - "Turn this photo/screenshot into a coloring book page"
-- "幫我把這張圖改造成小朋友可以著色的版本"
-- "把這張照片變成著色本/線稿"
+- "Convert this picture into black-and-white line art for children to color"
+- "Create a printable coloring sheet from this reference"
 
 ## Key Transformation Rules for Kids Coloring Pages
 Young children require specific line art characteristics for an enjoyable coloring experience:
